@@ -5,7 +5,7 @@
     </div>
     <div class="w-full sm:w-[70%] md:w-[60%] lg:w-[50%]">
         <h1 class="text-white font-bold text-3xl mt-6 mb-8">
-            Hey it's me, John Doe
+            Hey it's me, Pavan Chindukuri
         </h1>
 
         <p class="text-white w-full sm:w-[35rem] md:w-[30rem] lg:w-[25rem] mb-10">

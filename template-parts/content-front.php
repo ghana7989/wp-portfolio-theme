@@ -1,7 +1,7 @@
 <div id="container" class="w-auto flex flex-col md:flex-row px-4 sm:px-8 md:px-24 lg:px-24 xl:px-24 relative">
     <div class="mr-10">
         <img class="rounded-lg min-w-[100px] w-full h-auto md:w-auto md:h-auto"
-            src="https://ucarecdn.com/833d0fe1-c3b5-4843-b62c-fed9467aceeb/imageOfMyself.jpeg" alt="image of myself" />
+            src="../resources/me.jpeg" alt="Pavan Chindukuri" />
     </div>
     <div class="w-full sm:w-[70%] md:w-[60%] lg:w-[50%]">
         <h1 class="text-white font-bold text-3xl mt-6 mb-8">

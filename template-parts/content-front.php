@@ -6,16 +6,16 @@
 
     <div id="social" class="flex flex-wrap items-center justify-start gap-4">
       <a rel="noopener" target="_blank" href="https://github.com/ghana7989" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>Visit my Github</span>
+        <span>Visit my Github <i class="fa-brands fa-github"></i></span>
       </a>
       <a rel="noopener" target="_blank" href="/projects" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>View my work</span>
+        <span>View my work <i class="fa-solid fa-rocket" style="color: #FFD43B;"></i></span>
       </a>
       <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/chindukuri-pavan7989" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>Follow me on LinkedIn</span>
+        <span>Follow me on LinkedIn <i class="fa-brands fa-linkedin"></i></span>
       </a>
       <a rel="noopener" target="_blank" href="https://x.com/Chindukuri62860" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>Follow me on X</span>
+        <span>Follow me on X <i class="fa-brands fa-twitter"></i></span>
       </a>
     </div>
   </div>

@@ -1,22 +1,63 @@
 <div id="container" class="relative flex w-auto flex-col px-4 sm:px-8 md:flex-row md:px-24 lg:px-24 xl:px-24">
-  <div class="w-full sm:w-[70%] md:w-[60%] lg:w-[50%]">
-    <h1 class="mb-4 mt-6 text-3xl font-bold text-white">Hey, I'm Pavan Chindukuri</h1>
-
-    <p class="mb-8 text-white">I'm a passionate web and mobile app developer with over four years of experience turning ideas into impactful digital experiences. My journey started with JavaScript, and as I explored the depths of React, Node.js, and beyond, I discovered a love for building dynamic and scalable applications. Whether it's architecting complex frontends or optimizing backends, I’m driven by the challenge of creating seamless, user-friendly solutions.<br/> Let’s connect if you're interested in tech, have collaboration ideas, or just want to chat about the latest in development!</p>
-
-    <div id="social" class="flex flex-wrap items-center justify-start gap-4">
-      <a rel="noopener" target="_blank" href="https://github.com/ghana7989" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>Visit my Github <i class="fa-brands fa-github"></i></span>
-      </a>
-      <a rel="noopener" target="_blank" href="/projects" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>View my work <i class="fa-solid fa-rocket" style="color: #FFD43B;"></i></span>
-      </a>
-      <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/chindukuri-pavan7989" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>Follow me on LinkedIn <i class="fa-brands fa-linkedin"></i></span>
-      </a>
-      <a rel="noopener" target="_blank" href="https://x.com/Chindukuri62860" class="flex w-full items-center gap-2 rounded-lg bg-gray-800 p-4 text-white sm:w-auto">
-        <span>Follow me on X <i class="fa-brands fa-twitter"></i></span>
-      </a>
+  <div class="w-full flex flex-col justify-center align-middle">
+    <h1 class="mb-4 mt-6 lg:text-5xl font-mono text-gray-200 text-center md:text-3xl text-2xl">Hey, I'm Pavan
+      Chindukuri</h1>
+    <h3 class="mb-4 mt-6 lg:text-3xl md:text-xxl text-xl font-mono text-yellow-300 text-center">Fullstack Web and Mobile
+      App Developer</h3>
+    <p class="mb-4 mt-6 text-xl font-mono text-yellow-600 text-center">
+      I use React, React Native, NestJS, MongoDB, GO, and more.
+    </p>
+    <div id="social" class="flex flex-wrap items-center justify-center gap-8 mt-12">
+      <div>
+        <div class="relative inline-flex group">
+          <div
+            class="absolute transition-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-sm group-hover:opacity-70 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
+          </div>
+          <a href="https://github.com/ghana7989" title="Visit My Github"
+            class="relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
+            role="button">
+            <i class="fa-brands fa-github mr-4"></i>
+            Visit My Github
+          </a>
+        </div>
+      </div>
+      <div>
+        <div class="relative inline-flex group">
+          <div
+            class="absolute transition-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-sm group-hover:opacity-70 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
+          </div>
+          <a rel="noopener" target="_blank" href="/projects" href="https://github.com/ghana7989" title="Visit My Work"
+            class="relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
+            role="button">
+            <i class="fa-solid fa-rocket mr-4" style="color: #FFD43B;"></i>
+            Visit My Work
+          </a>
+        </div>
+      </div>
+      <div class="relative inline-flex group">
+        <div
+          class="absolute transition-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-sm group-hover:opacity-70 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
+        </div>
+        <a rel="noopener" target="_blank" href="https://www.linkedin.com/in/chindukuri-pavan7989"
+          title="Ping me on LinkedIn"
+          class="relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
+          role="button">
+          <i class="fa-brands fa-linkedin mr-4"></i>
+          Ping me on LinkedIn
+        </a>
+      </div>
+      <div class="relative inline-flex group">
+        <div
+          class="absolute transition-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-sm group-hover:opacity-70 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
+        </div>
+        <a rel="noopener" target="_blank" href="https://x.com/Chindukuri62860" title="Follow me on X"
+          class="relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
+          role="button">
+          <i class="fa-brands fa-twitter mr-4"></i>
+          Follow me on X
+        </a>
+      </div>
     </div>
   </div>
+</div>
 </div>

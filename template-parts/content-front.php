@@ -1,4 +1,4 @@
-<div id="container" class="relative flex w-auto flex-col px-4 sm:px-8 md:flex-row md:px-24 lg:px-24 xl:px-24">
+<div id="container" class="relative flex w-auto flex-col px-4 sm:px-8 md:flex-row md:px-24 lg:px-24 xl:px-24 mb-auto">
   <div class="w-full flex flex-col justify-center align-middle">
     <h1 class="mb-4 mt-6 lg:text-5xl font-mono text-gray-200 text-center md:text-3xl text-2xl">Hey, I'm Pavan
       Chindukuri</h1>
@@ -57,6 +57,10 @@
           Follow me on X
         </a>
       </div>
+    </div>
+    <div class="align-middle justify-center text-center mt-12">
+      Or just email me at<a href="mailto:pavan@proagetech.com"
+        class="ml-2 text-yellow-300 font-mono">pavan@proagetech.com</a>
     </div>
   </div>
 </div>

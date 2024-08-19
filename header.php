@@ -17,7 +17,7 @@
 
   <?php do_action('tailpress_site_before'); ?>
 
-  <div id="page" class="min-h-screen flex flex-col">
+  <div id="page" class="min-h-max flex flex-col">
 
     <?php do_action('tailpress_header'); ?>
 
